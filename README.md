@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Luisana Zambrano</h1>
+ # Hola👋, Bienvenidos a mi perfil, soy Luisana Zambrano
 <h3 align="center">Una desarrolladora (en proceso) frontend apasionada y constante</h3>
 
 - 🌱 Actualmente estoy aprendiendo **HTML CSS JAVASCRIPT**
