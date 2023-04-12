@@ -4,4 +4,5 @@
 - 🌱 Actualmente estoy aprendiendo **HTML CSS JAVASCRIPT**
 
 - 📫 Cómo contactarme **luisanazambranolobo@gmail.com**
-[] (https://i.makeagif.com/media/9-11-2020/ME5Rc8.mp4)
+- 
+- [] (https://img.freepik.com/vector-gratis/conexion-red-fondo-tecnologico_23-2148897767.jpg?w=900&t=st=1681303808~exp=1681304408~hmac=26dff5ad81622a4636adfaa7d71ac0799fc695adb79fce524d12468a3d8c6426)
