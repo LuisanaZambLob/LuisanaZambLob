@@ -4,7 +4,3 @@
 - 🌱 Actualmente estoy aprendiendo **HTML CSS JAVASCRIPT**
 
 - 📫 Cómo contactarme **luisanazambranolobo@gmail.com**
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-</p>
