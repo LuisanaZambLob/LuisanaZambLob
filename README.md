@@ -4,7 +4,7 @@
 <h3 align="center">Soy una desarrolladora frontend (en proceso) apasionada y constante</h3>
 
 
-- 🌱 Actualmente estoy aprendiendo **HTML CSS JAVASCRIPT**
+- 🌱 Actualmente estoy aprendiendo **HTML5 CSS JAVASCRIPT**
 
 - 📫 Cómo contactarme **luisanazambranolobo@gmail.com**
 
